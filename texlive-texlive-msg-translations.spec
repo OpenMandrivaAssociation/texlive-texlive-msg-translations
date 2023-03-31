@@ -1,6 +1,6 @@
 Name:		texlive-texlive-msg-translations
 Version:	63700
-Release:	1
+Release:	2
 Summary:	translations of the TeX Live installer and TeX Live Manager
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlive-msg-translations
