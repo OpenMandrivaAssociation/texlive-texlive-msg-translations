@@ -3,7 +3,7 @@ Version:	63700
 Release:	2
 Summary:	translations of the TeX Live installer and TeX Live Manager
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlive-msg-translations
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texlive-msg-translations
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texlive-msg-translations.r%{version}.tar.xz
 BuildArch:	noarch
